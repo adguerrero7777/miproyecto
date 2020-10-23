@@ -3,3 +3,9 @@ este es el segundo archivo del usuario 2,
 en este archivo presentaremos la promocion de la campania inicial
 
 de facebook que este sitio tendra.
+
+
+tambien vamos a agregar la seccion de tweeter y tambien
+
+
+vamos a configurar accesos para editores mediante sus cuentas de redes sociales
